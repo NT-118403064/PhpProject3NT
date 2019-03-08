@@ -43,7 +43,13 @@ body {
   background-color: #ddd;
   color: white;
 }
+body {
+  color: white;
+}
 
+h1 {
+  color: white;
+}
 </style>
 </head>
 <body>
